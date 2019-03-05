@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="1200px" viewBox="0 0 1200 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>5. Logo Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M96.4593285,500.445397 C32.3125979,505.069943 0.23923261,472.986375 0.23923261,404.194694 C0.23923261,364.988411 0.23923261,393.921778 0.23923261,336.87715 C0.23923261,308.179572 0.23923261,260.054325 0.23923261,192.501407 C-4.4464856,64.1671357 59.700245,4.15725578e-14 192.679424,-7.27196081e-15 C325.658604,-7.27196081e-15 453.952065,-7.27196081e-15 577.559808,-7.27196081e-15 C705.853269,2.68198575 770,66.8491214 770,192.501407 C770,318.153693 770,388.718121 770,404.194694 C770,468.36183 737.926635,500.445397 673.779904,500.445397 C609.633173,500.445397 417.192982,500.445397 96.4593285,500.445397 Z" id="path-1"></path>
+        <rect id="path-3" x="46" y="315" width="171" height="51"></rect>
+    </defs>
+    <g id="5.-Logo-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bag-Final" transform="translate(216.000000, 264.000000)">
+            <g id="straps" transform="translate(3.850000, 0.000000)" fill-rule="nonzero">
+                <polygon id="Path-11" fill="#9392CE" transform="translate(579.432223, 267.464960) scale(1, -1) translate(-579.432223, -267.464960) " points="757.305113 0 490.495779 534.929919 401.559334 534.929919 668.368668 0"></polygon>
+                <rect id="Rectangle-17" fill="#9392CE" x="313.775" y="0" width="155.925" height="30.8235294"></rect>
+                <polygon id="Path-11" fill="#3731AA" points="357.219325 0 90.4099906 534.929919 1.47354597 534.929919 268.28288 0"></polygon>
+            </g>
+            <g id="bag" transform="translate(0.000000, 154.117647)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Path-10" fill="#3731AA" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <polygon id="Path-11" fill="#1D1789" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(650.382223, 248.200254) scale(1, -1) translate(-650.382223, -248.200254) " points="828.255113 -19.2647059 561.445779 515.665214 472.509334 515.665214 739.318668 -19.2647059"></polygon>
+                <polygon id="Path-11" fill="#1D1789" fill-rule="nonzero" mask="url(#mask-2)" points="293.819325 -19.2647059 27.0099906 515.665214 -61.926454 515.665214 204.88288 -19.2647059"></polygon>
+                <g id="Group-12" mask="url(#mask-2)">
+                    <g transform="translate(82.525000, -20.235294)" id="shapes">
+                        <g transform="translate(0.475000, 0.117647)">
+                            <rect id="Rectangle-16" fill="#9392CE" fill-rule="nonzero" x="1" y="393" width="178" height="53"></rect>
+                            <rect id="Rectangle-20" fill="#FFF3E6" fill-rule="nonzero" x="445" y="166" width="147" height="280"></rect>
+                            <rect id="Rectangle-20" fill="#9392CE" fill-rule="nonzero" x="445" y="346" width="147" height="101"></rect>
+                            <g id="Group" transform="translate(389.000000, 0.000000)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <use id="Rectangle-20" fill="#3731AA" fill-rule="nonzero" xlink:href="#path-3"></use>
+                                <polygon id="Path-11" fill="#1D1789" fill-rule="nonzero" mask="url(#mask-4)" transform="translate(178.382223, 268.317901) scale(1, -1) translate(-178.382223, -268.317901) " points="356.255113 0.852941176 89.4457786 535.782861 0.509333959 535.782861 267.318668 0.852941176"></polygon>
+                            </g>
+                            <polygon id="Triangle" fill="#2EC4B6" fill-rule="nonzero" points="274.5 241 384 446 165 446"></polygon>
+                            <polygon id="Path-2" fill="#3731AA" fill-rule="nonzero" points="274 242 162.719234 449 124.162888 449 116 449 225.708627 242"></polygon>
+                            <polygon id="Path-5" fill="#CCFF66" fill-rule="nonzero" transform="translate(342.000000, 265.500000) scale(-1, 1) translate(-342.000000, -265.500000) " points="394 165 290 366 290 165"></polygon>
+                            <circle id="Oval-2" fill="#E83683" fill-rule="nonzero" cx="107" cy="253" r="107"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

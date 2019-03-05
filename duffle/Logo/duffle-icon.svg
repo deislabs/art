@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="512" height="167"></rect>
+        <path d="M64.1391899,332.631372 C21.4857794,335.705172 0.159074151,314.380165 0.159074151,268.656353 C0.159074151,242.597087 0.159074151,261.828248 0.159074151,223.912357 C0.159074151,204.837919 0.159074151,172.850479 0.159074151,127.950037 C-2.95662419,42.6500123 39.6967863,2.51935576e-14 128.119306,-7.27196081e-15 C216.541825,-7.27196081e-15 301.848646,-7.27196081e-15 384.039769,-7.27196081e-15 C469.34659,1.78263723 512,44.4326496 512,127.950037 C512,211.467424 512,258.36953 512,268.656353 C512,311.306366 490.673295,332.631372 448.019884,332.631372 C405.366474,332.631372 277.406242,332.631372 64.1391899,332.631372 Z" id="path-3"></path>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bag-Final">
+            <g id="straps">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle" fill-rule="nonzero"></g>
+                <polygon id="Path-11" fill="#9392CE" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(388.040333, 214.790975) scale(1, -1) translate(-388.040333, -214.790975) " points="506.239207 37 328.940896 392.581951 269.841459 392.581951 447.13977 37"></polygon>
+                <rect id="Rectangle-17" fill="#9392CE" fill-rule="nonzero" mask="url(#mask-2)" x="211.507614" y="37" width="103.614213" height="20.4892086"></rect>
+                <polygon id="Path-11" fill="#3731AA" fill-rule="nonzero" mask="url(#mask-2)" points="240.376939 37 63.0786278 392.581951 3.97919067 392.581951 181.277502 37"></polygon>
+            </g>
+            <g id="bag" transform="translate(0.000000, 139.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Path-10" fill="#3731AA" fill-rule="nonzero" xlink:href="#path-3"></use>
+                <g id="Group-12" mask="url(#mask-4)">
+                    <g transform="translate(54.873766, 83.592110)" id="shapes">
+                        <g transform="translate(0.315844, 0.078197)">
+                            <rect id="Rectangle-16" fill="#9392CE" fill-rule="nonzero" x="0.664935065" y="164.173653" width="118.358442" height="35.2275449"></rect>
+                            <rect id="Rectangle-20" fill="#FFF3E6" fill-rule="nonzero" x="295.896104" y="146.329341" width="97.7454545" height="53.0718563"></rect>
+                            <rect id="Rectangle-20" fill="#FFF3E6" fill-rule="nonzero" x="295.896104" y="13.2934132" width="97.7454545" height="99.0359281"></rect>
+                            <polygon id="Triangle" fill="#2EC4B6" fill-rule="nonzero" points="182.524675 63.1437126 255.335065 199.401198 109.714286 199.401198"></polygon>
+                            <polygon id="Path-2" fill="#3731AA" fill-rule="nonzero" points="182.192208 63.8083832 108.197724 201.39521 82.5602583 201.39521 77.1324675 201.39521 150.08158 63.8083832"></polygon>
+                            <polygon id="Path-5" fill="#CCFF66" fill-rule="nonzero" transform="translate(227.407792, 79.428144) scale(-1, 1) translate(-227.407792, -79.428144) " points="261.984416 12.6287425 192.831169 146.227545 192.831169 12.6287425"></polygon>
+                            <ellipse id="Oval-2" fill="#E83683" fill-rule="nonzero" cx="71.1480519" cy="71.1197605" rx="71.1480519" ry="71.1197605"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
