@@ -14,7 +14,7 @@
 
 Now when a sketch file is modified, you can see a text representation of the change:
 
-```console
+```diff
 $ git diff
 diff --git a/porter/porter-logo.sketch b/porter/porter-logo.sketch
 index b38789b..1842779 100644
