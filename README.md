@@ -1,19 +1,15 @@
 ![Deis Labs](https://github.com/deislabs/art/blob/master/deislabs/deis-labs-logo-01.png?raw=true)
 
-This is a private repoistory of our original vector files used to make our logos
-and graphics for our projects. They are private, and not licensed for public use
-to prevent _too easy_ modifications and redistribution of the assets.
-
-The exported image files, such as png and svg files, are made available under
-our open source licenses in their respective repositories.
+This is a repository of our original vector files used to make logos and graphics for
+our projects.
 
 See
 
-* [CNAB Community](https://github.com/deislabs/cnab-community)
-* [porter.sh](https://porter.sh)
 * [cnab.io](https://cnab.io)
 * [duffle.sh](https://duffle.sh)
+* [krustlet.dev](https://krustlet.dev)
+* [porter.sh](https://porter.sh)
 
 --- 
 
-_NOTE:_ related projects like Helm, Draft, Brigade, etc are owned by different entities (Azure, CNCF) and therefore not reproduced here. Contact @flynnduism for those assets.  
+_NOTE:_ related projects like Helm, Brigade and Porter are owned by the CNCF and therefore not reproduced here. Visit [cncf/artwork](https://github.com/cncf/artwork) or @flynnduism for those assets.
